@@ -1,6 +1,6 @@
 {
   "name": "@jurassicjs/roar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "exports": "./mod.ts",
   "description": "A simple, fast, and lightweight web server for Deno.",
   "runtime": ["deno", "node", "bun"]
